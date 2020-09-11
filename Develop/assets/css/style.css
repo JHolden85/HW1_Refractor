@@ -97,11 +97,12 @@ p {
     text-align: center;
 }
 
-.benefit-class {
+.benefit-class img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
